@@ -15,6 +15,7 @@
       width: 100px;
       height: 100px;
       background-color: black;
+      color: white;
       display: inline-flex;
       justify-content: center;
       align-items: center;

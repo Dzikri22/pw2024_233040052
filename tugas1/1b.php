@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php 
-    $npm = 50;
+    $npm = 52;
     $kali = 250;
     $tambah = 125;
     $kurang = 200;
