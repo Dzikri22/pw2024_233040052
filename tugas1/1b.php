@@ -8,15 +8,16 @@
 <body>
     <?php 
     $npm = 52;
-    $kali = 250;
-    $tambah = 125;
-    $kurang = 200;
+    $kali = 260;
+    $bagi = 130;
+    $tambah = 205;
+    $kurang = 185;
 
     echo "Aku adalah angka <b>$npm</b><br/>";
     echo "Jika aku dikali 5, maka aku sekarang menjadi " . $npm * 5 . "<br/>";
     echo "Jika aku dibagi 2, maka aku sekarang menjadi " . $kali / 2 . "<br/>";
-    echo "Jika aku ditambah 75, maka aku sekarang menjadi " . $tambah + 75 . "<br/>";
-    echo "Jika aku dikurang 20, maka aku sekarang menjadi " . $kurang - 20 . "<br/>";
+    echo "Jika aku ditambah 75, maka aku sekarang menjadi " . $bagi + 75 . "<br/>";
+    echo "Jika aku dikurang 20, maka aku sekarang menjadi " . $tambah - 20 . "<br/>";
 
     
     ?>
